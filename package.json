@@ -1,6 +1,6 @@
 {
   "name": "nameweave",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "type": "module",
   "description": "Preview a batch rename, catch naming collisions, then download renamed copies in a ZIP. Originals stay untouched.",
