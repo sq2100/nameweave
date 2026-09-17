@@ -4,7 +4,7 @@
 
 Preview a batch rename, catch naming collisions, then download renamed copies in a ZIP. Originals stay untouched.
 
-[Open the app](https://utokyo2026.github.io/nameweave/) · [Download offline HTML](https://github.com/UTokyo2026/nameweave/releases/latest) · [简体中文](README.zh-CN.md)
+[Open the app](https://sq2100.com/nameweave/) · [Download offline HTML](https://github.com/sq2100/nameweave/releases/latest) · [简体中文](README.zh-CN.md)
 
 ![NameWeave example](docs/demo.png)
 
@@ -20,7 +20,7 @@ No uploads, account, API key, tracking scripts, or runtime CDN dependencies. The
 
 ## Quick start
 
-Open the [hosted app](https://utokyo2026.github.io/nameweave/) and click **Try an example**. Or download the HTML from [Releases](https://github.com/UTokyo2026/nameweave/releases/latest), then open it in a modern desktop browser.
+Open the [hosted app](https://sq2100.com/nameweave/) and click **Try an example**. Or download the HTML from [Releases](https://github.com/sq2100/nameweave/releases/latest), then open it in a modern desktop browser.
 
 To build from source (Node.js 20.19+):
 
